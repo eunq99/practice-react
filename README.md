@@ -1,2 +1,1 @@
-- practice-react  
-🔗http://220.123.43.25:3000
+- practice-react  🔗http://220.123.43.25:3000
